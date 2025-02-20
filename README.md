@@ -4,6 +4,8 @@ A sophisticated AI chat application built with Next.js, featuring real-time conv
 
 ## Before You Get Started
 
+https://www.youtube.com/watch?v=iYX-3hCVmK8&t=243s
+
 1. [Sign up for a Free Clerk account](https://go.clerk.com/R9MPryz)
 2. [Sign up for IBM's FREE WxFlows tool](https://ibm.biz/wxflows-sonny)
 
