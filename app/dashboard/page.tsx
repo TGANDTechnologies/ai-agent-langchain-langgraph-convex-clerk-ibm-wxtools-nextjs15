@@ -14,24 +14,30 @@ export default function DashboardPage() {
               <BotIcon className="w-12 h-12 text-gray-600" />
             </div>
             <h2 className="text-2xl font-semibold bg-gradient-to-br from-gray-900 to-gray-600 bg-clip-text text-transparent">
-              Welcome to the AI Agent Chat
+              Welcome to your Marketing Consultation Human!
             </h2>
             <p className="text-gray-600 max-w-md mx-auto">
-              Start a new conversation or select an existing chat from the
-              sidebar. Your AI assistant is ready to help with any task.
+              Hi, my name's Terri and I will be helping you form your next gameplan for marketing success.
+              <br /> 
+              <br /> 
+              I'm ready to help you create a assets based marketing plan based on real-world data and modern tactics & techniques!
+              <br /> 
+              <br /> 
+              Start a new consultation or select an existing one from the
+              sidebar to begin.
             </p>
             <div className="pt-2 flex justify-center gap-4 text-sm text-gray-500">
               <div className="flex items-center gap-1.5">
                 <div className="w-2 h-2 rounded-full bg-blue-500"></div>
-                Real-time responses
+                Gameplan!
               </div>
               <div className="flex items-center gap-1.5">
                 <div className="w-2 h-2 rounded-full bg-green-500"></div>
-                Smart assistance
+                Consultation
               </div>
               <div className="flex items-center gap-1.5">
                 <div className="w-2 h-2 rounded-full bg-purple-500"></div>
-                Powerful tools
+                Execution
               </div>
             </div>
           </div>

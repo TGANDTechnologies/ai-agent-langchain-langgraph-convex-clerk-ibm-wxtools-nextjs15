@@ -76,7 +76,7 @@ export default function Sidebar() {
   const deleteChat = useMutation(api.chats.deleteChat);
 
   const handleNewChat = async () => {
-    const chatId = await createChat({ title: "New Chat" });
+    const chatId = await createChat({ title: "New Project" });
     router.push(`/dashboard/chat/${chatId}`);
     closeMobileNav();
   };
@@ -110,7 +110,7 @@ export default function Sidebar() {
             onClick={handleNewChat}
             className="w-full bg-white hover:bg-gray-50 text-gray-700 border border-gray-200/50 shadow-sm hover:shadow transition-all duration-200"
           >
-            <PlusIcon className="mr-2 h-4 w-4" /> New Chat
+            <PlusIcon className="mr-2 h-4 w-4" /> New Consultation
           </Button>
         </div>
 

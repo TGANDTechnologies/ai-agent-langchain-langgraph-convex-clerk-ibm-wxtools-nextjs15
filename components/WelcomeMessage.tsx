@@ -6,28 +6,28 @@ export default function WelcomeMessage() {
           Welcome to AI Agent Chat! 👋
         </h2>
         <p className="text-gray-600 mb-4 leading-relaxed">
-          I can help you with:
+          To help me get started, please tell me about your business and provide me with:
         </p>
         <ul className="space-y-2 text-gray-600">
           <li className="flex items-start gap-2">
             <span className="text-blue-500 mt-1">•</span>
-            <span>Finding and analyzing YouTube video transcripts</span>
+            <span>A brief explination of your business, project or idea.</span>
           </li>
           <li className="flex items-start gap-2">
             <span className="text-blue-500 mt-1">•</span>
-            <span>Searching through Google Books</span>
+            <span>The url to your website or landing page if you have one.</span>
           </li>
           <li className="flex items-start gap-2">
             <span className="text-blue-500 mt-1">•</span>
-            <span>Processing data with JSONata</span>
+            <span>Will you like to include social media within your gameplan?</span>
           </li>
           <li className="flex items-start gap-2">
             <span className="text-blue-500 mt-1">•</span>
-            <span>Retrieve all Customer and Order data</span>
+            <span>Please provide the url for your closest competitor.</span>
           </li>
           <li className="flex items-start gap-2">
             <span className="text-blue-500 mt-1">•</span>
-            <span>Retrieve all Comments from the Comments API</span>
+            <span>Please explain any other elements you think are important.</span>
           </li>
         </ul>
         <p className="text-gray-600 mt-4 leading-relaxed">
