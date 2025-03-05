@@ -17,10 +17,10 @@ export default function DashboardPage() {
               Welcome to your Marketing Consultation Human!
             </h2>
             <p className="text-gray-600 max-w-md mx-auto">
-              Hi, my name's Terri and I will be helping you form your next gameplan for marketing success.
+              Hi, my name&apos;s Terri and I will be helping you form your next gameplan for marketing success.
               <br /> 
               <br /> 
-              I'm ready to help you create a assets based marketing plan based on real-world data and modern tactics & techniques!
+              I&apos;m ready to help you create a assets based marketing plan based on real-world data and modern tactics & techniques!
               <br /> 
               <br /> 
               Start a new consultation or select an existing one from the
