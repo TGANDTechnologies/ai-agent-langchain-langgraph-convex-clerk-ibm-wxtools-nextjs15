@@ -6,7 +6,7 @@ export default function WelcomeMessage() {
           Welcome to your Free Marketing Consultant! 👋
         </h2>
         <p className="text-gray-600 mb-4 leading-relaxed">
-          I'm ready to help build your marketing gameplan together. 
+          I am ready to help build your marketing gameplan together. 
         </p>
         <p className="text-gray-600 mb-4 leading-relaxed">
         Just say hello and we can begin our consultation!
